@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Web Deploy Success, from Git !
+            Web Deploy Success, from GitHub !
         </div>
     </form>
 </body>
