@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Label ID="Label1" runat="server" Text="from GitHub_Deploy Sucsess!"></asp:Label>
+            <asp:Label ID="Label1" runat="server" Text="GitHubDeploy Sucsess!!!!"></asp:Label>
         </div>
     </form>
 </body>
